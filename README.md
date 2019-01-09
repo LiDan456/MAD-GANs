@@ -19,7 +19,9 @@ Please refer to https://github.com/ratschlab/RGAN for the original code.
   """ python RGAN.py --settings_file kdd99 """
 
 - To do anomaly detection:
+
   """ python AD.py --settings_file kdd99_test"""
+  
   """ python AD_Invert.py --settings_file kdd99_test"""
 
 ## Data
