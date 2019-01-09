@@ -16,6 +16,10 @@ from differential_privacy.dp_sgd.dp_optimizer import dp_optimizer
 from differential_privacy.dp_sgd.dp_optimizer import sanitizer
 from differential_privacy.privacy_accountant.tf import accountant
 
+"""
+Here, both the discriminator and generator were used to do the anomaly detection
+"""
+
 # --- get settings --- #
 # parse command line arguments, or use defaults
 parser = utils.rgan_options_parser()

@@ -18,6 +18,10 @@ from time import time
 
 begin = time()
 
+"""
+Here, only the discriminator was used to do the anomaly detection
+"""
+
 # --- get settings --- #
 # parse command line arguments, or use defaults
 parser = utils.rgan_options_parser()
