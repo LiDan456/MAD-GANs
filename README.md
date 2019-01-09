@@ -14,7 +14,7 @@ Please refer to https://github.com/ratschlab/RGAN for the original code.
 
 - Python3
 
-- please unpack the data.7z file in the data folder before run RGAN.py and AD.py
+- Please unpack the data.7z file in the data folder before run RGAN.py and AD.py
 
 - To train the model:
   
