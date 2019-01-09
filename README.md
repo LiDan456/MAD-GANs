@@ -7,7 +7,7 @@ This repository contains code for the paper, _[Anomaly Detection with Generative
 ## Overview
 
 We used generative adversarial networks (GANs) to do anomaly detection for time series data.
-The GAN framework was **R**GAN that taken from the paper, _[Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/abs/1706.02633).
+The GAN framework was **R**GAN, whihc was taken from the paper, _[Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/abs/1706.02633).
 Please refer to https://github.com/ratschlab/RGAN for the original code.
 
 ## Quickstart
