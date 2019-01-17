@@ -2,7 +2,11 @@
 
 # MAD-GAN
 
-This repository contains code for the paper, _[Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/pdf/1809.04758.pdf)_, by Dan Li, Dacheng Chen, Jonathan Goh, and See-Kiong Ng.
+This repository contains code for the paper, _[MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks](https://arxiv.org/pdf/1901.04997.pdf)_, by Dan Li, Dacheng Chen, Jonathan Goh, and See-Kiong Ng.
+
+MAD-GAN is a refined version of GAN-AD at _[Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series](https://arxiv.org/pdf/1809.04758.pdf)_
+
+(We are still working on this topic, will upload the completed version later...)
 
 ## Overview
 
